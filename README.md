@@ -5,3 +5,5 @@ Before starting this blog post, let’s learn a bit more about data visualizatio
 This blog is a continuation of my previous blog post, if you haven’t checked it yet, I would highly recommend going through the below-mentioned blog post before applying this concept.
 
   CREATING SIMPLE LINE CHARTS USING D3.JS – PART 01
+  
+  https://vizartpandey.com/line-chart-how-to-show-data-on-mouseover-using-d3-js/
